@@ -267,6 +267,7 @@
   - 由於傳統機房環控採用商用軟體導致建置成本較高，且缺乏客製化的彈性，因此本團隊利用多種開源軟體與硬體進行整合開發建置了雲端機房環控開源系統。
     - Speaker: 陳弘明、李汶昇、鄭鍾翔
     - Slides: https://www.slideshare.net/secret/3gnEbZJsU78IZV
+    - Code: https://github.com/TitanLi/smart-data-center
   
   
 #### 2019/03/09
@@ -288,5 +289,80 @@
   - 在這場 Workshop 當中，將帶領各位進入駭客的世界，了解駭客到底平常都在做什麼。除了瞭解之外當然也又動手實作體驗一下當駭客的感覺，並且學習如何進行簡單的自我保護。
     - Speaker: 許清雄 (Stan)
     - Slides: 無
+    
+  
+ 
+#### 2019/04/23
+- OpenShift 容器平台技術概觀
+- Monospace (台中市西區臺灣大道二段2號16F-2)
+- Event: https://tfc.kktix.cc/events/redhat-openshift-summary
+- Topics:
+  - 容器化平台的架構介紹，分享平常自建任何容器平台時，應該要留意的幾個技術點。
+    - Speaker: 黃秉鈞 (Phil Huang)
+    - Slides: 待確認
+    
+  
+ 
+#### 2019/05/04
+- Musicha 的崛起：從工程師斜槓企業家
+- Monospace (台中市西區臺灣大道二段2號16F-2)
+- Event: https://tfc.kktix.cc/events/musicha-opensource-entrepreneurship
+- Topics:
+  - Linux 系統傳統充滿拼湊感、筆電硬體匹配不佳的使用體驗不再，取而代之的，是有整體感且激勵創作的使用體驗。
+    - Speaker: 張正一 (Shoichi Chou)
+    - Slides: 待確認
+    
+  
+ 
+#### 2019/06/08
+- 突破困境：資安開源工具之應用分享
+- Monospace (台中市西區臺灣大道二段2號16F-2)
+- Event: https://tfc.kktix.cc/events/nomoney-infosec
+- Topics:
+  - 資訊安全是現今企業必然要面臨的挑戰，在開源軟體的世界裡也有許多解決方案可以從旁協助，從虛擬化、備份、狀態監控、記錄分析、弱點掃描等等都可以找到相當不錯的套件，講者將從過去應用分享相關開源軟體經驗。
+    - Speaker: 鄭郁霖 (Jason Cheng)
+    - Slides: https://www.slideshare.net/jasoncheng7115/20190608-monospace
+     
+  
+ 
+#### 2019/06/29
+- 天黑請閉眼，與駭客的對話
+- Monospace (台中市西區臺灣大道二段2號16F-2)
+- Event: https://tfc.kktix.cc/events/night-talk-hacking-hacker
+- Topics:
+  - 智慧聯網的時代來臨，許多應用都與資訊安全相關，資訊安全的議題早已跨越了國境的邊界，近來幾次大型網路攻擊事件，不論國內外都引起了許多人的憂心，不論是近來經常發生的勒索攻擊威脅，或是網站遭到資料的竊取，這些都已成為全球性的資安問題，如何因應新興的資安問題所帶來的資安風險，成為我們所關注的話題。
+    - Speaker: 許清雄 (Stan)
+    - Slides: 未提供
+     
+  
+ 
+#### 2019/07/07
+- Working with PowerShell
+- Monospace (台中市西區臺灣大道二段2號16F-2)
+- Event: https://tfc.kktix.cc/events/working-with-powershell
+- Topics:
+  - PowerShell 橫空出世成為 Windows 的第一把手（誤），其實是燙手山芋？同時，微軟在近年將 PowerShell 帶來了跨平台以及開源的改變 (PowerShell Core)，既然 PowerShell 做為微軟強力主推的命令列管理神兵利器，那我們該如何學習 PowerShell 的技巧以及如何避免踩坑呢？
+    - Speaker: 艾蜜莉 (Emily)
+    - Slides: 未提供  
+     
+  
+ 
+#### 2019/07/20
+- SDN x Cloud Native Meetup #18
+- Monospace (台中市西區臺灣大道二段2號16F-2)
+- Event: https://www.meetup.com/CloudNative-Taiwan/events/262177100/
+- Topics:
+  - 基於 Ceph RGW 之上層 API Service 開發與效能分析。
+    - Speaker: 李麒傑 (James Li)
+    - Slides: https://speakerdeck.com/cijie/sdn-x-cloud-native-meetup-number-18
+  - 使用 Kubernetes CSI 與 Ceph 實現 Trustzone。
+    - Speaker: 林春旺
+    - Slides: https://speakerdeck.com/q60563/shi-yong-kubernetes-csi-yu-ceph-shi-xian-trustzone
+  - How to deal second interface service discovery and load balancer in Kubernetes。
+    - Speaker: 李孟澤
+    - Slides: https://www.slideshare.net/MengZeLi4/how-to-deal-second-interface-service-discovery-and-load-balancer-in-kubernetes
+  - Better Practice_ Day 2 Operaition with Ansible。
+    - Speaker: 黃秉鈞 (Phil Huang)
+    - Slides: https://speakerdeck.com/pichuang/20190720-better-practice-day-2-operaition-with-ansible
     
   
